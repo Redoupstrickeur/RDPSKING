@@ -7,7 +7,6 @@ pip install requests
 pip install mechanize
 pip install bs4
 pip install future
-rm -rf Crack-Pro
 git clone https://github.com/Redoupstrickeur/RDPSKING
 cd RDPSKING
 git pull 
